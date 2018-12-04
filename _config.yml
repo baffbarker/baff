@@ -20,6 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/baff" # the subpath of your site, e.g. /blog
 url: "https://baff.github.io" # the base hostname & protocol for your site
 github_username:    baffbarker
+twitter_username:	JeremyStocks1
 comments: true
 
 # Build settings
